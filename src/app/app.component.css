@@ -1,0 +1,193 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color:#FFF9F4;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  .header-color{
+    background-color:#FFF9F4;  
+  }
+  
+  .logo {
+    width: 291.11px;
+    height: 39.27px;
+    top: 39px;
+    left: 135px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .nav-group {
+    width: 414px;
+    height: 24px;
+    top: 47px;
+    left: 889px;
+    gap: 0px;
+    opacity: 0px;
+
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-left: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #f0f0f0;
+  }
+  
+  .product-image {
+    /* flex: 1;
+    text-align: center; */
+    width: 1440px;
+    height: 715px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  
+  .product-image img {
+    max-width: 100%;
+  }
+  
+  .product-info {
+    width: 1440px;
+    height: 715px;
+    gap: 0px;
+    opacity: 0px;   
+  }
+  
+  .product-info h1 {
+    color: #d9534f; /* Red color */
+  }
+  
+  .product-info p {
+    margin: 20px 0;
+  }
+  
+  .button-style {
+    width: 170px;
+    height: 42px;
+    top: 424px;
+    left: 853.68px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    color:#f3f4f8 ;
+    background:#3D4FF3;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  .button-style-shoes {
+    width: 170px;
+    height: 42px;
+    top: 2056px;
+    left: 320px;
+    gap: 0px;
+    opacity: 0px;    
+    border-radius: 10px 0px 0px 0px;
+    color:#f3f4f8 ;
+    background:#3D4FF3;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  .buy-now-style{
+    top: 2px;
+  }
+
+.nike {  
+font-size: 80px;
+font-weight: 700;
+line-height: 80px;
+text-align: left;
+}
+.shoppingcart{
+width: 24px;
+height: 24px;
+top: 442px;
+left: 887.68px;
+padding: 3px 2.64px 3px 2px;
+gap: 0px;
+opacity: 0px;
+
+}
+.casual-shoes {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  .shoe-card {
+    background-color: #fff;
+    border: 2px solid #F0F0F0;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  .shoe-card:hover {
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  .shoe-card img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  .shoe-card h3 {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #333;
+  }
+  .shoe-card p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  .price {
+    font-size: 24px;
+    color: #FF6A00;
+    margin-bottom: 15px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+  }
+.shoe-text
+{
+width: 212px;
+height: 48px;
+top: 764px;
+left: 135px;
+gap: 0px;
+opacity: 0px;
+margin-bottom: 15px;
+margin-top: 15px;
+font-weight: bold;
+}
+
+.footer-ref{
+    display: flex;
+    gap: 20px;
+}

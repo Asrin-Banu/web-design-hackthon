@@ -11,4 +11,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'hackathon';
+  casualShoes = [{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"},{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"},{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"}]
+  formalShoes = [{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"},{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"},{header:"Nike Shoe",text:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",price:"$234"}]
 }
